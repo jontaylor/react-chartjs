@@ -15,7 +15,7 @@ rich interactive react charting components using [chart.js](http://www.chartjs.o
 Installation
 ------------
 
-This is a normal javascript file that you can include with a <script> tag
+This is a normal javascript file that you can include with a script tag
 
 You must also include chartjs and react before this
 
