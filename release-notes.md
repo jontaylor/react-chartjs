@@ -1,5 +1,8 @@
 # Release Notes
 
+## v0.6.0.1 - Aug 31st, 2015
+- Remove bloat that is not necessary for use on the browser
+
 ## v0.6.0 - March 25th, 2015
 - [#12](https://github.com/jhudson8/react-chartjs/pull/12) - Allow custom chart types. ([@tcard](https://api.github.com/users/tcard))
 - [#11](https://github.com/jhudson8/react-chartjs/pull/11) - fix failed to update points for doughnut chart ([@neoalienson](https://api.github.com/users/neoal

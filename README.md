@@ -14,16 +14,15 @@ rich interactive react charting components using [chart.js](http://www.chartjs.o
 
 Installation
 ------------
-This is a CommonJS component only (to be used with something like Webpack or Browserify)
-```
-npm install --save react-chartjs
-```
-You must also include [chart.js](https://www.npmjs.com/package/chart.js) and [React](https://www.npmjs.com/package/react) as dependencies.
+
+This is a normal javascript file that you can include with a <script> tag
+
+You must also include chartjs and react before this
 
 Example Usage
 -------------
 ```
-var LineChart = require("react-chartjs").Line;
+var LineChart = ReactChartjs.Line;
 
 var MyComponent = React.createClass({
   render: function() {
